@@ -5,3 +5,4 @@ Add for group project
 -   Tailwind CSS
 -   Daisy UI
 -   React Icon
+-   React Icon

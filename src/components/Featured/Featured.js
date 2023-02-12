@@ -4,7 +4,7 @@ import { FeaturedData } from "../FeaturedData/FeaturedData";
 
 const Featured = () => {
     return (
-        <div className="w-[1280px] m-auto py-20">
+        <div className="py-24">
             <div className="content grid grid-cols-3 gap-6">
                 <div className="grid items-center text-center rounded-lg py-8 px-12 bg-gradient-to-t from-[#243238] to-[#102f49]">
                     <div>
